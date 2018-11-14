@@ -1,0 +1,288 @@
+D:\New folder\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Form3.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+D:\New folder\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+D:\New folder\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+D:\New folder\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+D:\New folder\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.stock.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+D:\New folder\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+F:\databs project\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+F:\databs project\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+F:\databs project\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+F:\databs project\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+F:\databs project\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Form3.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.stock.resources
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+F:\databs project\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.mdcn.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.stock.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.companysrch.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customersrch.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.srchmdcn.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+C:\Users\kuasha\Documents\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.companysrch.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customersrch.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.mdcn.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.stock.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.srchmdcn.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+C:\Users\Jahanur Alam\Desktop\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+D:\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+D:\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+D:\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+D:\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+D:\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.mdcn.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.srchmdcn.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewmdcn.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+F:\databs project\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+F:\databs project\pharmacym\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+F:\databs project\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+F:\databs project\pharmacym\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.companysrch.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customersrch.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.mdcn.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.stock.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.srchmdcn.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewmdcn.resources
+F:\databs project\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.deletemdcn.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editmdcn.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+D:\pharmacym\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+D:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.deletemdcn.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.mdcn.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.srchmdcn.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewmdcn.resources
+D:\a adownloads\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+E:\pharmacym1\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+E:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe.config
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.exe
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.pdb
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data.mdf
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\Data_log.ldf
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.exe
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\bin\Debug\pharmacyms.pdb
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csprojResolveAssemblyReference.cache
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.change_pw.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.company.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchase.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sell.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.sellreport.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcompany.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.customer.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.viewcustomer.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcompany.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.editcustomer.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.frnt.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.login.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.menu.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.Properties.Resources.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcompany.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.rmvcustomer.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.purchasereprt.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.serchcompany.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.searchcustomer.resources
+G:\pharmacym(1)\pms\pharmacyms\pharmacyms\obj\Debug\pharmacyms.csproj.GenerateResource.Cache

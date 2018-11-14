@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{032CABAB-AFC0-46E9-AA80-CF61B8755359}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>pharmacyms</RootNamespace>
+    <AssemblyName>pharmacyms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="change pw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="change pw.Designer.cs">
+      <DependentUpon>change pw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="company.Designer.cs">
+      <DependentUpon>company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sellreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sellreport.Designer.cs">
+      <DependentUpon>sellreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewcompany.Designer.cs">
+      <DependentUpon>viewcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.cs">
+      <DependentUpon>customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewcustomer.Designer.cs">
+      <DependentUpon>viewcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editcompany.Designer.cs">
+      <DependentUpon>editcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editcustomer.Designer.cs">
+      <DependentUpon>editcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frnt.Designer.cs">
+      <DependentUpon>frnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase.Designer.cs">
+      <DependentUpon>purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rmvcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rmvcompany.Designer.cs">
+      <DependentUpon>rmvcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rmvcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rmvcustomer.Designer.cs">
+      <DependentUpon>rmvcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sell.Designer.cs">
+      <DependentUpon>sell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="purchasereprt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchasereprt.Designer.cs">
+      <DependentUpon>purchasereprt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="serchcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="serchcompany.Designer.cs">
+      <DependentUpon>serchcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchcustomer.Designer.cs">
+      <DependentUpon>searchcustomer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="change pw.resx">
+      <DependentUpon>change pw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="company.resx">
+      <DependentUpon>company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchase.resx">
+      <DependentUpon>purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sell.resx">
+      <DependentUpon>sell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sellreport.resx">
+      <DependentUpon>sellreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewcompany.resx">
+      <DependentUpon>viewcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewcustomer.resx">
+      <DependentUpon>viewcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editcompany.resx">
+      <DependentUpon>editcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editcustomer.resx">
+      <DependentUpon>editcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frnt.resx">
+      <DependentUpon>frnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rmvcompany.resx">
+      <DependentUpon>rmvcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rmvcustomer.resx">
+      <DependentUpon>rmvcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchasereprt.resx">
+      <DependentUpon>purchasereprt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="serchcompany.resx">
+      <DependentUpon>serchcompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchcustomer.resx">
+      <DependentUpon>searchcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Data.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
